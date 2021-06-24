@@ -1,0 +1,2 @@
+rootProject.name = "1.3_Image_resources_and_compatibility"
+include ':app'
